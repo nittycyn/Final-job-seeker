@@ -255,7 +255,7 @@
    "STORY": "You are in the room where  decision are granted or made",
    "NAVIGATION": "",
    "WIN": 1,
-   "LOSE": 0,
+   "LOSE": 1,
    "ITEM": 0,
    "PERSON": 1
  }
